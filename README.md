@@ -582,3 +582,4 @@ If you want to reload the translations and see the update on all your components
 ## Additional Framework Support
 
 * [Use with NativeScript](https://github.com/NathanWalker/nativescript-ng2-translate/issues/5#issuecomment-257606661)
+Created by Jason Scott Heise
